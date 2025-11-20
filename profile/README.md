@@ -238,3 +238,10 @@ while (true) {
 - **상태 관리**: TanStack Query (서버 상태), Zustand (클라이언트 상태)
 - **폼 관리**: React Hook Form + Zod를 활용한 검증
 - **스타일링**: Tailwind CSS + DaisyUI를 통한 일관된 디자인
+
+
+## 레포지토리
+
+- **Frontend**: [algorithm-survival-client](https://github.com/7seoul/algorithm-survival-client)
+- **Main Server**: [algorithm-survival-server-main](https://github.com/7seoul/algorithm-survival-server-main)
+- **Worker Server**: [algorithm-survival-server-worker](https://github.com/7seoul/algorithm-survival-server-worker)
